@@ -1,0 +1,8 @@
+﻿.idea
+.git
+src/Infrastructure/obj
+src/Infrastructure/bin
+src/VolNal.Chat.MessageService/bin
+src/VolNal.Chat.MessageService/obj
+src/VolNal.Chat.MessageService/appsettings.json
+src/VolNal.Chat.MessageService/appsettings.Development.json
